@@ -1,0 +1,35 @@
+真实梦境聚类主题分析报告
+============================================================
+
+分析梦境数量: 50
+聚类算法: K-means优化版
+聚类数量: 4
+
+聚类 0:
+  关键词: dream, night, woke, went, remember, dreamed, know, going, friends, did
+  梦境数量: 37
+  示例梦境:
+    1. "My wife to be" and I were in a store. Apparently the store was near the water because I kept on trying to convince her to drive the boat while I went skiing. She claimed it was too cold to ski. Besid...
+    2. Real life: My friends and I just bought an eight-track recorder so that the band I'm in could record some songs. Dream: I get home from school one day and these two kids, kids that I know I've seen at...
+
+聚类 1:
+  关键词: car, phone, went, started, like, didn, away, looked, school, came
+  梦境数量: 7
+  示例梦境:
+    1. My friend (Joel) and I were in a big house. There were four young girls playing somewhere in the house. These girls were approximately ten or eleven years of age. At first Joel and I were just watchin...
+    2. I was walking across the street and the light turned green. There was a car behind me that started to move and it hit me. It started to push me across the street. I was standing while being pushed and...
+
+聚类 2:
+  关键词: like, guy, store, mother, sundae, car, driving, looked, boxes, music
+  梦境数量: 3
+  示例梦境:
+    1. I went to the music store that I always go to in Wilmington. This time though, it looked much different. It looked like a sporting goods store I had been in years ago, which had a wooden, cabin-like e...
+    2. I was with my friends in a car. We were driving around and I had a 9mm gun which I was fooling around with because I never held one or saw one up close before. We looked out the car and I bet them I c...
+
+聚类 3:
+  关键词: illegible, kids, kid, like, water, fin, outside, saw, camp, shark
+  梦境数量: 3
+  示例梦境:
+    1. My second dream included one of my biggest fears: sharks. I can only remember few details and therefore the end of the dream is quite distorted. The setting takes place on the water. I was accompanied...
+    2. I was working in a building with the summer camp I work at. I was watching the kids play hockey. I got bored and left to go outside. When I was outside there was a fresh water pond where other kids we...
+
